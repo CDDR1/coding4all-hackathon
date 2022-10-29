@@ -1,0 +1,84 @@
+/***		Written By: Scott Pietras
+*	thisCss.css - cssfile for hackathon
+*
+*
+*
+*		
+*	
+*	
+*	
+*	
+*	
+*	
+***		
+*/
+
+
+/* General Styles */
+
+
+/*
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: pink;
+    background-color: #68347F;
+}
+
+h1 {
+    text-align: center;
+}
+
+h6 {
+    color: black;
+}
+
+a {
+    font-size: 1.5em;
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #00FF00;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+feet {
+    color: #5e2f72;
+}
+
+*/
+
+
+/* NavBar */
+
+
+/*
+
+.main-nav {
+    display: flex;
+}
+
+*/
